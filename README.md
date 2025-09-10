@@ -1,5 +1,7 @@
 ## SQL PROJECT - Museum Paintings And Sales Analysis
 
+![painting image](https://static.vecteezy.com/system/resources/previews/033/473/130/non_2x/modern-bright-drink-room-interiors-with-art-wallpaper-ai-generated-photo.jpg)
+
 #### Dataset :-
 [Kaggle Dataset Link](https://www.kaggle.com/datasets/mexwell/famous-paintings)
 
