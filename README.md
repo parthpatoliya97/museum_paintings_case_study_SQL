@@ -1,7 +1,7 @@
 ## SQL PROJECT - Museum Paintings And Sales Analysis
 
 #### Dataset :-
-![Kaggle Dataset Link](https://www.kaggle.com/datasets/mexwell/famous-paintings)
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/mexwell/famous-paintings)
 
 #### 1️. Fetch all the paintings which are not displayed in any museum
 ```sql
