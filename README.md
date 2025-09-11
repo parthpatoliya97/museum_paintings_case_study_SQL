@@ -3,6 +3,7 @@
 ![painting image](https://static.vecteezy.com/system/resources/previews/033/473/130/non_2x/modern-bright-drink-room-interiors-with-art-wallpaper-ai-generated-photo.jpg)
 
 ER Diagram :-
+
 ![ER_Diagram](https://github.com/parthpatoliya97/museum_paintings_case_study_SQL/blob/main/ER%20Diagram.png?raw=true)
 
 #### Key Relationships :-
