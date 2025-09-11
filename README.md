@@ -2,7 +2,7 @@
 
 ![painting image](https://static.vecteezy.com/system/resources/previews/033/473/130/non_2x/modern-bright-drink-room-interiors-with-art-wallpaper-ai-generated-photo.jpg)
 
-#### This project focuses on Museum Paintings Data Analysis, where I explored and analyzed a rich dataset of artworks, artists, museums, and related sales information. The main objective was to uncover hidden insights and trends from this dataset by applying core and advanced MySQL concepts.
+#### This project focuses on [Museum Paintings Data Analysis](https://www.kaggle.com/datasets/mexwell/famous-paintings), where I explored and analyzed a rich dataset of artworks, artists, museums, and related sales information. The main objective was to uncover hidden insights and trends from this dataset by applying core and advanced MySQL concepts.
 
 #### A key learning from this project was connecting MySQL Workbench with Python using SQLAlchemy. This approach allowed me to load large datasets directly into the database without manually creating or inserting tables, saving significant time and effort compared to traditional methods.
 
@@ -20,7 +20,7 @@ ER Diagram :-
 - canvas_size ↔ product_size: Many-to-many through junction table
 
 #### Dataset :-
-[Kaggle Dataset Link](https://www.kaggle.com/datasets/mexwell/famous-paintings)
+[Museum Paintings Data Analysis](https://www.kaggle.com/datasets/mexwell/famous-paintings)
 
 #### 1️. Fetch all the paintings which are not displayed in any museum
 ```sql
