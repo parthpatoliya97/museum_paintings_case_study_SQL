@@ -2,6 +2,10 @@
 
 ![painting image](https://static.vecteezy.com/system/resources/previews/033/473/130/non_2x/modern-bright-drink-room-interiors-with-art-wallpaper-ai-generated-photo.jpg)
 
+- This project focuses on Museum Paintings Data Analysis, where I explored and analyzed a rich dataset of artworks, artists, museums, and related sales information. The main objective was to uncover hidden insights and trends from this dataset by applying core and advanced MySQL concepts.
+
+- A key learning from this project was connecting MySQL Workbench with Python using SQLAlchemy. This approach allowed me to load large datasets directly into the database without manually creating or inserting tables, saving significant time and effort compared to traditional methods.
+
 ER Diagram :-
 
 ![ER_Diagram](https://github.com/parthpatoliya97/museum_paintings_case_study_SQL/blob/main/ER%20Diagram.png?raw=true)
