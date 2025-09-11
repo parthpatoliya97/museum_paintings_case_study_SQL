@@ -2,6 +2,18 @@
 
 ![painting image](https://static.vecteezy.com/system/resources/previews/033/473/130/non_2x/modern-bright-drink-room-interiors-with-art-wallpaper-ai-generated-photo.jpg)
 
+ER Diagram :-
+![ER_Diagram](https://github.com/parthpatoliya97/museum_paintings_case_study_SQL/blob/main/ER%20Diagram.png?raw=true)
+
+#### Key Relationships :-
+- artist ↔ work: One-to-many (one artist can have many works)
+- museum ↔ work: One-to-many (one museum can have many works)
+- work ↔ image_link: One-to-one (each work has one set of image links)
+- work ↔ subject: One-to-one (each work has one subject entry)
+- museum ↔ museum_hours: One-to-many (one museum has multiple opening hours)
+- work ↔ product_size: Many-to-many through junction table (works can have multiple sizes/prices)
+- canvas_size ↔ product_size: Many-to-many through junction table
+
 #### Dataset :-
 [Kaggle Dataset Link](https://www.kaggle.com/datasets/mexwell/famous-paintings)
 
